@@ -7,16 +7,16 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **Senior Robotics Engineering Student**
-- 🤖 Passionate about **motion planning, control systems, and AI-driven robotics**  
+- 🎓 **Robotics Engineering Graduate**
+- 🤖 Passionate about **motion planning, control systems, and autonomous robots**  
 - 🛠️ Developing projects with **Python, C++, ROS/ROS2, Machine Learning, and PLC programming**  
 
 ---
 
 ## 🛠️ Tech Stack  
-**💻 Programming:** Python | C++ | C | JavaScript  
+**💻 Programming:** Python | C++ | C   
 **⚙️ Tools & Frameworks:** ROS/ROS2 | AutoCAD | MATLAB | SolidWorks | TIA Portal | CODESYS  
-**🤖 Robotics & AI:** Motion Planning | Computer Vision | Machine Learning | Industrial Automation  
+**🤖 Robotics & AI:** Motion Planning | Computer Vision | Machine Learning | Industrial Automation 
 
 ---
 
