@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Dinmukhamet Murat</h1>
 
 <p align="center">
-  🤖 Robotics Engineering Student | 🔬 AI & Automation Enthusiast | 💡 Lifelong Learner
+  🤖 Robotics Engineer | 🔬 Mobile & Industrial Robotics
 </p>
 
 ---
