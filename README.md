@@ -12,9 +12,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://gitlab.com/dinmukhamet.murat">
-    <img src="" alt="Email">
+    <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
   </a>
   <a href="https://sites.google.com/view/dinmukhamet-murat/">
-    <img src="" alt="Email">
+    <img src="https://img.shields.io/badge/Google%20Sites-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Website">
   </a>
 </p>
