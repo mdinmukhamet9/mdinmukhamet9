@@ -13,7 +13,7 @@
   <a href="https://gitlab.com/dinmukhamet.murat">
     <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
   </a>
-  <a href="[https://sites.google.com/view/dinmukhamet-murat/](https://mdinmukhamet9.github.io/temp_webpage/)">
+  <a href="https://mdinmukhamet9.github.io/temp_webpage/">
     <img src="https://img.shields.io/badge/Google%20Sites-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Website">
   </a>
 </p>
